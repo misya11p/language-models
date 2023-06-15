@@ -8,7 +8,9 @@
     - NN
 - RNN
 - RNNLM
-- ゲート付きRNN（LSTM, GRU）
+- ゲート付きRNN
+    - LSTM
+    - GRU
 - 言語モデルの評価
     - パープレキシティ
 - Attention
