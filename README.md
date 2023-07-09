@@ -17,11 +17,12 @@
 1. マルコフモデル
 2. 深層学習を用いた言語モデル
 3. RNN
-4. ゲート付きRNN
-5. 言語モデルの評価
-6. seq2seq
-7. Attention
-8. Transformer
+4. RNNLM
+5. ゲート付きRNN
+6. 言語モデルの評価
+7. seq2seq
+8. Attention
+9. Transformer
 
 ## おまけ
 
