@@ -5,24 +5,44 @@
 
 私は本リポジトリやそこに含まれるノートブックを資料と呼ぶが、実際は私が学んだ内容や解釈のメモである。
 
-## 言語モデルとは
+全体的に制作途中。基本的に未完成。
 
-単語の並びに確率を割り当てるモデル。
+## 1. 言語モデルとは
 
-基本的には文章生成に使われるので、文章生成モデルとみてもいいかもしれない。文章生成では、与えられた文脈と語彙の下で次に続く単語を予測し、その単語を文脈に含めた上でまた次の単語を予測する。これを繰り返すことで文章を生成する。
+## 2. マルコフモデル
 
-## 目次
+https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
 
-1. マルコフモデル
-2. 深層学習を用いた言語モデル
-3. RNN
-4. RNNLM
-5. ゲート付きRNN
-6. 言語モデルの評価
-7. seq2seq
-8. Attention
-9. Transformer
+## 3. 深層学習を用いた言語モデル
+
+https://github.com/misya11p/language-models/blob/main/deep_learning.ipynb
+
+## 4. RNN
+
+https://github.com/misya11p/language-models/blob/main/RNN.ipynb
+
+## 5. RNNLM
+
+https://github.com/misya11p/language-models/blob/main/RNNLM.ipynb
+
+## 6. ゲート付きRNN
+
+https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
+
+## 7. 言語モデルの評価
+
+## 8. Seq2Seq
+
+https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
+
+## 9. Attention
+
+https://github.com/misya11p/language-models/blob/main/attention.ipynb
+
+## 10. Transformer
+
+https://github.com/misya11p/language-models/blob/main/transformer.ipynb
 
 ## おまけ
 
-1. word2vec
+- word2vec
