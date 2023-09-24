@@ -29,17 +29,15 @@ https://github.com/misya11p/language-models/blob/main/RNNLM.ipynb
 
 https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
 
-## 7. 言語モデルの評価
-
-## 8. Seq2Seq
+## 7. Seq2Seq
 
 https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
 
-## 9. Attention
+## 8. Attention
 
 https://github.com/misya11p/language-models/blob/main/attention.ipynb
 
-## 10. Transformer
+## 9. Transformer
 
 https://github.com/misya11p/language-models/blob/main/transformer.ipynb
 
