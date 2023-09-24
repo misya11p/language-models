@@ -9,6 +9,8 @@
 
 ## 1. 言語モデルとは
 
+https://github.com/misya11p/language-models/blob/main/introduction.ipynb
+
 ## 2. マルコフモデル
 
 https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
@@ -40,7 +42,3 @@ https://github.com/misya11p/language-models/blob/main/attention.ipynb
 ## 9. Transformer
 
 https://github.com/misya11p/language-models/blob/main/transformer.ipynb
-
-## おまけ
-
-- word2vec
