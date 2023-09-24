@@ -7,11 +7,19 @@
 
 全体的に制作途中。基本的に未完成。
 
-## 1. 言語モデルとは
+## 1. 言語モデル
+
+- 言語モデル
+- 言語モデルを用いた文章生成
 
 https://github.com/misya11p/language-models/blob/main/introduction.ipynb
 
 ## 2. マルコフモデル
+
+- マルコフモデル
+- マルコフモデルを用いた文章生成
+- マルコフモデルの学習
+- 一般的なデータセットの活用
 
 https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
 
