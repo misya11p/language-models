@@ -25,6 +25,14 @@ https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
 
 ## 3. 深層学習を用いた言語モデル
 
+- サブワード分割
+- 特殊トークン
+- 学習データの作成
+- 埋め込み層
+- モデル構築
+- 学習
+- 文章生成
+
 https://github.com/misya11p/language-models/blob/main/deep_learning.ipynb
 
 ## 4. RNN
