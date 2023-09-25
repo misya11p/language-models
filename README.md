@@ -35,26 +35,29 @@ https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
 
 https://github.com/misya11p/language-models/blob/main/deep_learning.ipynb
 
-## 4. RNN
+## 4. RNNを用いた言語モデル
+
+- RNN
+- 言語モデルの構築
+- BPTT
+- 学習データの作成
+- ミニバッチ学習
+- 文章生成
 
 https://github.com/misya11p/language-models/blob/main/RNN.ipynb
 
-## 5. RNNLM
-
-https://github.com/misya11p/language-models/blob/main/RNNLM.ipynb
-
-## 6. ゲート付きRNN
+## 5. ゲート付きRNN
 
 https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
 
-## 7. Seq2Seq
+## 6. Seq2Seq
 
 https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
 
-## 8. Attention
+## 7. Attention
 
 https://github.com/misya11p/language-models/blob/main/attention.ipynb
 
-## 9. Transformer
+## 8. Transformer
 
 https://github.com/misya11p/language-models/blob/main/transformer.ipynb
