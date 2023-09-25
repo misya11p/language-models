@@ -48,6 +48,11 @@ https://github.com/misya11p/language-models/blob/main/RNN.ipynb
 
 ## 5. ゲート付きRNN
 
+- ゲート
+- GRU
+- LSTM
+- LSTMを用いた言語モデル
+
 https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
 
 ## 6. Seq2Seq
