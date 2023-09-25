@@ -57,9 +57,18 @@ https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
 
 ## 6. Seq2Seq
 
+- Seq2Seq
+- 対訳コーパス
+- モデル構築
+- 翻訳
+
 https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
 
 ## 7. Attention
+
+- Attention
+- MASK
+- Attentionを用いたSeq2Seq
 
 https://github.com/misya11p/language-models/blob/main/attention.ipynb
 
