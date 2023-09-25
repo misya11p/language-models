@@ -69,6 +69,7 @@ https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
 - Attention
 - MASK
 - Attentionを用いたSeq2Seq
+- Attentionの可視化
 
 https://github.com/misya11p/language-models/blob/main/attention.ipynb
 
