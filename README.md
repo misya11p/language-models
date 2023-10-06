@@ -44,7 +44,7 @@ https://github.com/misya11p/language-models/blob/main/deep_learning.ipynb
 - ミニバッチ学習
 - 文章生成
 
-https://github.com/misya11p/language-models/blob/main/RNN.ipynb
+https://github.com/misya11p/language-models/blob/main/rnn.ipynb
 
 ## 5. ゲート付きRNN
 
@@ -53,7 +53,7 @@ https://github.com/misya11p/language-models/blob/main/RNN.ipynb
 - LSTM
 - LSTMを用いた言語モデル
 
-https://github.com/misya11p/language-models/blob/main/gated_RNN.ipynb
+https://github.com/misya11p/language-models/blob/main/gated_rnn.ipynb
 
 ## 6. Seq2Seq
 
