@@ -2,6 +2,9 @@
 
 言語モデルについてまとめた資料。特に深層学習に着目し、言語モデルへの理解を深めていく。
 
+> [!NOTE]
+> 制作中。
+
 ## 1. [言語モデル](introduction.ipynb)
 
 言語モデルの概要やそれを用いた文章生成について。
@@ -61,6 +64,5 @@ RNN層にゲートと呼ばれる機構を追加し、より長期的な文脈�
 5. 実践
 
 ## 7. [Attention](attention.ipynb)
-
 
 ## 8. [Transformer](transformer.ipynb)
