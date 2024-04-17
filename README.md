@@ -2,12 +2,10 @@
 
 言語モデルについてまとめた資料。特に深層学習に着目し、言語モデルへの理解を深めていく。
 
-## 1. 言語モデル
+## 1. [言語モデル](introduction.ipynb)
 
-- 言語モデル
-- 言語モデルを用いた文章生成
-
-https://github.com/misya11p/language-models/blob/main/introduction.ipynb
+1. 言語モデル
+2. 言語モデルを用いた文章生成
 
 ## 2. マルコフモデル
 
