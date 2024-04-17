@@ -1,4 +1,4 @@
-# 深層言語モデルの理論と実装
+# 言語モデルの理論と実装
 
 言語モデルについてまとめた資料。特に深層学習に着目し、言語モデルへの理解を深めていく。
 
@@ -7,65 +7,48 @@
 1. 言語モデル
 2. 言語モデルを用いた文章生成
 
-## 2. マルコフモデル
+## 2. [マルコフモデル](markov_model.ipynb)
 
-- マルコフモデル
-- マルコフモデルを用いた文章生成
-- マルコフモデルの学習
-- 一般的なデータセットの活用
+1. マルコフモデル
+2. マルコフモデルを用いた言語モデル
+3. マルコフモデルの学習
+4. より大きなデータセットの活用
 
-https://github.com/misya11p/language-models/blob/main/markov_model.ipynb
+## 3. [深層学習の導入](deep_learning.ipynb)
 
-## 3. 深層学習を用いた言語モデル
+1. 深層学習の活用
+2. 教師データの作成
+3. 埋め込み層
+4. モデル構築
+5. パープレキシティ
+6. 実践
 
-- サブワード分割
-- 特殊トークン
-- 学習データの作成
-- 埋め込み層
-- モデル構築
-- 学習
-- 文章生成
+## 4. [RNN](rnn.ipynb)
 
-https://github.com/misya11p/language-models/blob/main/deep_learning.ipynb
+1. RNN
+2. RNNを用いた言語モデル
+3. 教師データの作成
+4. BPTT
+5. RNNにおけるミニバッチ学習
+6. 実践
 
-## 4. RNNを用いた言語モデル
+## 5. [ゲート付きRNN](gated_rnn.ipynb)
 
-- RNN
-- 言語モデルの構築
-- BPTT
-- 学習データの作成
-- ミニバッチ学習
-- 文章生成
+1. 勾配消失
+2. ゲート
+3. GRU
+4. LSTM
+5. 実践
 
-https://github.com/misya11p/language-models/blob/main/rnn.ipynb
+## 6. [Seq2Seq](seq2seq.ipynb)
 
-## 5. ゲート付きRNN
+1. 条件付き言語モデル
+2. Seq2Seq
+3. 教師データの作成
+4. モデル構築
+5. 実践
 
-- ゲート
-- GRU
-- LSTM
-- LSTMを用いた言語モデル
+## 7. [Attention](attention.ipynb)
 
-https://github.com/misya11p/language-models/blob/main/gated_rnn.ipynb
 
-## 6. Seq2Seq
-
-- Seq2Seq
-- 対訳コーパス
-- モデル構築
-- 翻訳
-
-https://github.com/misya11p/language-models/blob/main/seq2seq.ipynb
-
-## 7. Attention
-
-- Attention
-- MASK
-- Attentionを用いたSeq2Seq
-- Attentionの可視化
-
-https://github.com/misya11p/language-models/blob/main/attention.ipynb
-
-## 8. Transformer
-
-https://github.com/misya11p/language-models/blob/main/transformer.ipynb
+## 8. [Transformer](transformer.ipynb)
