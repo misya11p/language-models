@@ -60,9 +60,17 @@ RNN層にゲートと呼ばれる機構を追加し、より長期的な文脈�
 1. 条件付き言語モデル
 2. Seq2Seq
 3. 教師データの作成
-4. モデル構築
-5. 実践
+4. 双方向RNN
+5. ビームサーチ
+6. 実践
 
 ## 7. [Attention](attention.ipynb)
+
+データの全体を見た上で重要な部分に着目するような仕組み。これを用いることでSeq2Seqの性能が向上する。
+
+1. Attention機構
+2. Attentionを用いたSeq2Seq
+3. 実践
+4. Attentionの可視化
 
 ## 8. [Transformer](transformer.ipynb)
