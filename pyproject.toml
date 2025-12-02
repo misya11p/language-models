@@ -9,9 +9,12 @@ dependencies = [
     "fugashi>=1.5.2",
     "jupyter>=1.1.1",
     "markovify>=0.9.4",
+    "matplotlib>=3.10.7",
     "protobuf>=6.33.0",
+    "sentencepiece>=0.2.1",
     "tokenizers>=0.22.1",
     "torch>=2.9.0",
+    "torchtext>=0.18.0",
     "transformers>=4.57.1",
     "unidic-lite>=1.0.8",
 ]
