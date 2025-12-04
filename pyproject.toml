@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "datasets>=4.3.0",
+    "environs>=14.5.0",
     "fugashi>=1.5.2",
     "jupyter>=1.1.1",
     "markovify>=0.9.4",
@@ -17,4 +18,5 @@ dependencies = [
     "torchtext>=0.18.0",
     "transformers>=4.57.1",
     "unidic-lite>=1.0.8",
+    "wandb>=0.23.1",
 ]
