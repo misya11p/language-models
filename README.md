@@ -78,3 +78,15 @@ RNN層にゲートと呼ばれる機構を追加し、より長期的な文脈�
 4. Attentionの可視化
 
 ## 9. [Transformer](transformer.ipynb)
+
+現在の言語モデルの根幹を担うアーキテクチャであるTransformerについて学ぶ。
+
+1. Transformerの概要
+2. Positional Encoding
+3. Self-Attention
+4. Query-Key-Value Attention
+5. Multi-Head Attention
+6. Transformer Encoder
+7. Transformer Decoder
+8. Transformer
+9. 実践
